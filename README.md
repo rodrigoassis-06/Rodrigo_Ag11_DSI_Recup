@@ -23,3 +23,9 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+3. Executar os testes unitarios:
+```bash
+python test_monitoramento.py
+```
+

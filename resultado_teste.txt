@@ -1,0 +1,12 @@
+SAIDA DO TESTE DE EXECUCAO:
+==================================================
+SISTEMA DE MONITORAMENTO DO RESERVATORIO DE AGUA
+--------------------------------------------------
+[Nivel 1] Situacao: Muito baixo (critico)
+[Nivel 2] Situacao: Baixo
+[Nivel 3] Situacao: Medio
+[Nivel 4] Situacao: Alto
+[Nivel 5] Situacao: Muito alto (alerta)
+--------------------------------------------------
+==================================================
+Codigo de saida: 0

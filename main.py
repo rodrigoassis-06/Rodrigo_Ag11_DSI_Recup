@@ -42,3 +42,4 @@ def exibir_monitoramento(niveis):
 
 if __name__ == "__main__":
     exibir_monitoramento(niveis_reservatorio)
+
